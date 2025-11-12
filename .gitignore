@@ -38,6 +38,8 @@ env/
 data/results/*.json
 data/results/*.md
 !data/results/.gitkeep
+data/*.db
+data/charts/
 
 # Logs
 *.log
