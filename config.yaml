@@ -1,0 +1,15 @@
+targets:
+  - app: Lemon8
+    store: ios
+  - app: CapCut
+    store: ios
+  - app: Notion
+    store: android
+  - app: Temu
+    store: ios
+  - app: Duolingo
+    store: android
+  - app: Canva
+    store: ios
+output_dir: "./data/results"
+country_filter: ["US", "JP", "UK"]
